@@ -25,4 +25,4 @@ Make sure you have the following software installed:
     npm start
     ```
 
-This will start the development server at `http://localhost:5173/`
+This will start the development server at `http://localhost:3000/`
